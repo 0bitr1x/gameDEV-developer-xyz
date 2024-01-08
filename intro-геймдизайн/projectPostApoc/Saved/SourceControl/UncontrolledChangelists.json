@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/4I/46IPH65BNHBBR65NOT2EOV.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/03/S7CD2U1M91XR1RCT586IIA.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DM/JKPHGFINDWCS0MY8S1FGR5.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/U6/1MZ0PYPTET86BRWTTWQGL3.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/W8/NYECBG4NI854ZMGZCKY7IV.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/O2/BAN9S1EM13S5W9P7FTWNWO.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3K/MLQHVET2LUXB9S76KKGDH5.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0C/C2E9AXSG4854OABWS42H07.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/JV/9BDY62IW6DB2N94WYYIGV0.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UW/1FH3Y6FVS6Q5BWBBJHBMQY.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/EZ/XXXU49U9VMUGZUL4GKLNSO.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3C/JYWTC017C585RPNRQVWV71.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J9/U4TS9HHLNGNMIQBL66V2O0.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FU/J10365V8OQX6TUF3Z5VAI1.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/GT/I42FT2S3YELW3BBC6T7TQR.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LP/KVC3BLZS9JXH5BQPTSPBIA.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3I/6SB29ODCYQ1KQ1DHSWRJRS.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OP/U9BKQXAD1R5XXQO3RRUG3C.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XV/Z7SFZH35N8LXWMMBSU4TOE.uasset",
+				"/Users/0bitr1x/Documents/Unreal Projects/projectPostApoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+			]
+		}
+	]
+}
